@@ -1,0 +1,24 @@
+START
+
+// Input
+// Input ‘+’ for addition and ‘-‘ for subtraction for operator
+INPUT num1
+INPUT num2
+INPUT operator
+
+// Initialization
+SET result to 0
+
+// Conditional Statements and Process Steps
+IF operator = “+”
+THEN
+SET sum to num1 + num2
+
+IF operator = “-“
+THEN
+SET sum to num1 - num2
+
+// Output
+PRINT sum
+
+END

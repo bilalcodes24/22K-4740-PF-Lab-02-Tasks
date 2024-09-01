@@ -1,0 +1,8 @@
+1.	Ask the user to enter Number
+2.	Ask the user to enter Divisor
+3.	Set Result to Number/Divisor
+4.	If Result is a whole number, output “Nth is a divisor of the number”
+5.	Else, output “Nth is not a divisor of the number”
+6.	Set EvenOrOdd to Result/2
+7.	If EvenOrOdd is a whole number, output “Even”
+8.	Else, output “Odd”

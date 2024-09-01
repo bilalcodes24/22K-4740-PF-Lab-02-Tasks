@@ -1,0 +1,15 @@
+1.	Ask the user to enter Number1
+2.	Ask the user to enter Number 2
+3.	Ask the user to enter operator (+ or – or * or /)
+4.	If operator is +
+5.	Set Result to Number1 + Number2
+6.	Display Result
+7.	If operator is –
+8.	Set Result to Number1 – Number2
+9.	Display Result
+10.	If operator is *
+11.	Set Result to Number1 * Number2
+12.	Display Result
+13.	If operator is /
+14.	Set Result to Number1 / Number2
+15.	Display Result
